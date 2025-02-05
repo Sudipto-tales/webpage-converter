@@ -111,5 +111,5 @@ This project is open-source and licensed under the **MIT License**.
 ---
 
 ## 💡 Credits
-Created by **SK Toufiq Ahamed** | Inspired by [Spatie Browsershot](https://github.com/spatie/browsershot)
+Created by **Sudipta Ghosh** | Inspired by [Spatie Browsershot](https://github.com/spatie/browsershot)
 
